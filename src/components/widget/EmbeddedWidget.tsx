@@ -210,7 +210,7 @@ function EmbeddedWidget() {
           </DialogHeader>
           <div className="flex-1 h-[calc(90vh-120px)] bg-gray-50 rounded-xl overflow-hidden">
             <iframe
-              src="http://localhost:3001"
+              src="https://uniswap-ai-helper-widget-lfm0seflo-maxs-projects-8cfc5dd4.vercel.app/"
               className="w-full h-full border-0"
               title="Embedded Widget"
             />
